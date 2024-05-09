@@ -4,4 +4,4 @@ let celsius = 30;
 
 let fahrenheit;
 fahrenheit = (celsius * 1.8) + 32
-console.log(fahrenheit)
+console.log(fahrenheit);
