@@ -1,6 +1,4 @@
-// Exercise #3: Celsius to Fahrenheit
-let celsius = 30;
+let celsius =30
+let fahrenheit = (celsius * 1.8) + 32
 
-// Start coding here;
-
-let fahrenheit;
+console.log(fahrenheit) 
